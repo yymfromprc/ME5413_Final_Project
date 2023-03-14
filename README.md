@@ -54,7 +54,7 @@ After forking this repo to your own github:
 ```bash
 # Clone your own fork of this repo (assuming home here `~/`)
 cd
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/ME5413_Final_Project.git
+git clone https://github.com/yymfromprc/ME5413_Final_Project.git
 cd ME5413_Final_Project
 
 # Install all dependencies
